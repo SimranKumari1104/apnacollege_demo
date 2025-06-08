@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first Git Repository.
 <br>
-Author - Simran Kumari
+Author - Simran Kumari (MIT,muzaffarpur)
